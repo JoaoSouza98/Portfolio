@@ -227,7 +227,9 @@ h3{
 
 /* modals */
 .profile {
+	display: block;
 	border-radius: 100%;
-	margin-left: 40%;
+	margin-left: auto;
+    margin-right: auto;
 	height: 110px;
 }
