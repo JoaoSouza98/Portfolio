@@ -137,6 +137,13 @@ nav.navbar-transparente {
     padding-left: 120px;
 }
 
+.rotacionar-pic-left{
+	transform: rotate(-16deg);
+	-ms-transform: rotate(-16deg); /* IE 9 */
+    -webkit-transform: rotate(-16deg); /* Chrome, Safari, Opera */
+    padding-left: 120px;
+}
+
 .img-code {
 	 height: 500px;
 	 width: 500px;
@@ -225,6 +232,10 @@ h3{
 	color: #9bf0e1;
 }
 
+#goals h1 {
+	color: #ffffff;
+}
+
 /* modals */
 .profile {
 	display: block;
@@ -232,4 +243,15 @@ h3{
 	margin-left: auto;
     margin-right: auto;
 	height: 110px;
+}
+
+#projects h3 {
+	color: #9bf0e1;
+}
+
+#projects {
+	margin-top: 80px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
 }
