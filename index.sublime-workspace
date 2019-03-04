@@ -144,7 +144,7 @@
 			"file": "projects.html",
 			"settings":
 			{
-				"buffer_size": 13065,
+				"buffer_size": 13069,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -205,7 +205,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -281,15 +281,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13065,
+						"buffer_size": 13069,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5304,
-								5304
+								11241,
+								11241
 							]
 						],
 						"settings":
@@ -299,7 +299,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1620.0,
+						"translation.y": 972.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
